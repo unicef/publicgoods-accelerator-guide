@@ -1,4 +1,6 @@
 # Accelerator Guide for Digital Public Goods
+[![CC BY-SA 4.0][cc-by-sa-shield]](LICENSE)
+
 How to support teams building Digital Public Goods?
 The DPG Accelerator Guide is part of The Digital Public Goods (DPG) Alliance’s efforts to support countries create enabling environments for pipelines of DPGs. It’s designed as a guiding document for the use of Pathfinder country partners such as the  UNICEF Country Offices, their Government Counterparts and accelerators. It provides a set of tools, resources and contents on engaging the local startup ecosystem to create Digital Public Goods, as defined by The Secretary General’s Roadmap for Digital Cooperation; Open-source software, open data, open artificial intelligence models, open standards, and open content that adhere to privacy and other applicable international and domestic laws, standards, and best practices and do no harm. 
 
@@ -40,3 +42,26 @@ examples and templates under the following work areas:
 # Annex - Templates 
 
 Placeholder
+
+## :memo: License
+
+This repository is primarily content, and it is licensed under a [Creative Commons Attribution ShareAlike 4.0 International License](LICENSE).
+
+[![CC BY-SA 4.0][cc-by-sa-image]](LICENSE)
+
+> This is a human-readable summary of (and not a substitute for) the license.
+> 
+> You are free to:
+> * **Share** — copy and redistribute the material in any medium or format
+> * **Adapt** — remix, transform, and build upon the material for any purpose, even commercially.
+> 
+> The licensor cannot revoke these freedoms as long as you follow the license terms.
+> 
+> * **Attribution** — You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
+> * **ShareAlike** — If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
+>
+> No additional restrictions — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
+
+[cc-by-sa-image]: https://licensebuttons.net/l/by-sa/4.0/88x31.png
+[cc-by-sa-shield]: https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg
+[code-of-conduct-shield]: https://img.shields.io/badge/Contributor%20Covenant-v2.0%20adopted-ff69b4.svg
