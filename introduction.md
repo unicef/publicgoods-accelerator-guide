@@ -6,7 +6,7 @@
 
 UNICEF’s Office of Innovation uses technology to address the biggest challenges facing children today. We use technology and new approaches to do three things:
 
-1. **Provide Life-saving Info and Services** - We use new approaches and technologies to increase access to essential services, use scarce resources more efficiently, and communicate life-saving information.  
+1. **Provide Life-saving Information and Services** - We use new approaches and technologies to increase access to essential services, use scarce resources more efficiently, and communicate life-saving information.  
 2. **Engage Young People in Change** - We use technology and new approaches to engage young people around the world, connect them to their governments as well as opportunities to ensure that they are future ready. 
 3. **Help UNICEF meet children's needs today and tomorrow** - We identify emerging technologies, conduct research, experiment with new approaches, and invest in early stage solutions. We work to ensure that children can take advantage of technological opportunities and be protected from technological risks. 
 
@@ -16,7 +16,7 @@ UNICEF works to create new partnership structures that can narrow the gap betwee
 
 1. **Startup companies:** identifying and investing in promising startups working on open-source frontier technology solutions that show potential to positively impact the lives of the most vulnerable children.  This is our primary work done through the UNICEF Innovation Fund.  We are also in collaboration with Startup Accelerators who wish to accelerate Digital Public Goods – more on that in this guide! 
 2. **Private sector:** convening corporations (such as Arm, Amadeus, Google, Facebook, Telefonica, IBM, Johnson & Johnson and Pfizer), designers, entrepreneurs, and other development partners around the intersection of high-growth tech industries and social good.  
-3. **Academic:** bringing shared value through the exchange of ideas, joint capacity building and opportunities for applied research. These relationships are about building up a community of practice and practitioners and connecting with a new generation of problem solvers. 
+3. **Academia:** bringing shared value through the exchange of ideas, joint capacity building and opportunities for applied research. These relationships are about building up a community of practice and practitioners and connecting with a new generation of problem solvers. 
 4. **International agencies and other United Nations entities:** serving as a convening force across the United Nations system and among international organizations, co-creating and implementing solutions and leveraging local and global networks.
 
 ## UNICEF's Venture Fund 
@@ -32,7 +32,7 @@ The UNICEF Innovation Fund quickly assesses, funds, and grows open-source digita
 #### Background
 The Venture Fund was launched by UNICEF in 2016 – a US$17.9 million investment fund(now USD $35M (+2267 ETH + 8BTC) – applying lessons learned over 8+ years, undertaking the complex work of helping to identify and grow innovations for children. The UNICEF Venture Fund makes USD $50–100K early stage investments in technologies for children developed by UNICEF country offices or companies in UNICEF programme countries. By providing flexible funding to early-stage innovators, it allows UNICEF to quickly assess, fund and grow open-source technology solutions that show potential to positively impact the lives of vulnerable children.  
 
-#### Objectve of the Fund
+#### Objecitve of the Fund
 The Objective is to identify and pilot promising frontier technologies to develop scalable platforms that UNICEF can use in a range of applications and country settings. The fund seeks to achieve this by identifying clusters or portfolios of initiatives around emerging technology - so that UNICEF can shape markets, learn from and provoke these technology sectors to benefit children. Such an investment method allows UNICEF to take small risks within particular technology portfolios, and ensure that even if many of the investments fail, the portfolio is a success. 
 
 #### Results to date
