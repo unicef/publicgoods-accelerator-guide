@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Digital Public Goods Accelerator Guide',
   tagline: '',
-  url: 'https://unicef.github.io/publicgoods-accelerator-guide',
+  url: 'https://unicef.github.io/',
   baseUrl: '/publicgoods-accelerator-guide/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
