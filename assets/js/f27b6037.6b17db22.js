@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkaccelerator=self.webpackChunkaccelerator||[]).push([[3204],{4320:function(e){e.exports=JSON.parse('{"allTagsPath":"/publicgoods-accelerator-guide/blog/tags","slug":"/publicgoods-accelerator-guide/blog/tags/facebook","name":"facebook","count":1,"permalink":"/publicgoods-accelerator-guide/blog/tags/facebook"}')}}]);

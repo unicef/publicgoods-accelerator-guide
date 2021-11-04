@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkaccelerator=self.webpackChunkaccelerator||[]).push([[4651],{8068:function(e){e.exports=JSON.parse('{"permalink":"/publicgoods-accelerator-guide/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"previousPage":null,"nextPage":null,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

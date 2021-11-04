@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkaccelerator=self.webpackChunkaccelerator||[]).push([[2375],{6711:function(e){e.exports=JSON.parse('{"allTagsPath":"/publicgoods-accelerator-guide/blog/tags","slug":"/publicgoods-accelerator-guide/blog/tags/hello","name":"hello","count":2,"permalink":"/publicgoods-accelerator-guide/blog/tags/hello"}')}}]);
