@@ -7,33 +7,45 @@ sidebar_position: 7
 ## UNICEF Kazakhstan & Astana Hub (Supported as an add-on for the startup)
 ### How did they begin to support DPGs? –UNICEF Kazakhstan & Astana Hub 
 
-As part of the work with [UNICEF’s Giga](https://gigaconnect.org/about/) and alignment for a workplan with the Ministry of Digitlisation, they found the opportunity to work and identify [Astana Hub](https://astanahub.com/) (Accelerator) to carry out the DPG plan with the Ministry of Education.  UNICEF Kazakhstan then approached them with similar agendas for a joint efforts, then followed by conversations with higher state members other ministries. 
+As part of the work with [UNICEF’s Giga](https://gigaconnect.org/about/) aligned with MOU between UNICEF Kazakhstan and  Ministry of digital development, innovations and aerospace industry of the Republic of Kazakhstan, [Astana Hub](https://astanahub.com/) (Accelerator) was idetified as a best candidate to carry out the DPG work  reflected in the workplan between UNICEF Kazakhstan and the Ministry of education and science of the Republic of Kazakhstan. 
 
 ### Stakeholders involved – UNICEF Kazakhstan & Astana Hub 
 
-* **UNICEF Kazakhstan:** Innovation Officer that has been working for 2-3 years primarily in the education space with online content and working with the Giga project in Kazakhstan. 
+* **UNICEF Kazakhstan:** Innovation Officer that has been working for 2-3 years primarily in the education space with online content and working with the Giga initiative in Kazakhstan. 
    * Set up programme document and results & activities. 
 
-* **Astana Hub (Accelerator)** - Government agency was the accelerator implementation partner which has a digital strategic programme - they put expectations around innovations & investment and look at the legislative level of what their plans are to streamline this work. 
+* **Astana Hub (Accelerator)** - Quasi-government organization was the accelerator implementation partner which is an international technology park for IT startups with a main function to create enabling environment for free development of kazakh and foreign technology companies governed by Digital Kazakhstan 2018-2025 state strategy.  
 
-   * For example,  5000 startups have to bring $X of investment was the digital strategic programme objectives of Astana Hub, and UNICEF's objective is helping startup. 
+   * For example,  5000 startups have to bring $X of investment was the digital strategic programme objectives of Astana Hub, and UNICEF's objective is helping startup to grow from idea to product stage with the support from technological partner. 
 
-   * Kazakhstan wants to be on top of innovation, and UNICEF brings in that with DPGA we can reach these goals together. 
-
+   * Kazakhstan positions itself as an innovation hub for Central Asia region, and UNICEF brings in that with DPGA's support  we can reach these goals together. In 2017, Kazakhstan joined the global digitalization movement with the launch of the Digital Kazakhstan strategic program. Kazakhstan Government, through is Digital Program  intends to create the needed infrastructure, talent, and ecosystem to promote digitalization of the economy. Implementing digital solutions to digitalize government and business are key to its success. Also, transforming IT sector to become a net exporter, by positioning the Kazakhstan technology ecosystem in the world will be a game changer.The program is aimed at increasing the competitiveness of the Kazakhstani economy and improving the quality of life through the progressive development of the digital ecosystem in the country. The 5 priority areas for the implementation of the program include: digitalization of the economy, proactive digital government, development of digital infrastructure, development of a creative society and the development of human capital, creation of an innovation ecosystem. The digital government agenda aims to improve the efficiency and accessibility of government services. This entails transforming the policy making process through data analysis and technology (using open / big data for predictive analytics); new ways of involving citizens (principles of open government, including open legislation, open budget, etc.); digitalization of public service delivery (paperless and digital services by default, integrated information systems); and the smart cities initiative.
+Kazakhstan aims to benefit both from existing DPGs to accelerate the digitalization of the economy and by using or creating its own DPGs and position them for other countries. Digital Public Goods can be leveraged for Kazakhstan and multiple countries to achieve the Sustainable Development Goals.
    * Last year launched, Digital Education Lab hosted an acceleration program. There were 38 startups with support of Astana Hub, whereby 4 of them were selected for seed funding, and 2 of them were selected to move forward with their DPG nomination.  
 
  
 ### Conducted a DPG needs assessment– UNICEF Kazakhstan & Astana Hub 
 
-UNICEF Kazakhstan conducted a needs assessment to validate the needs for DPGs with members of the steering committee for September. 
-
-* They realized that they invest less in child security issues (don't see the need or urgency) and rather would want to put more money in digital health solutions.  It's good to show the impact (from other countries best practices i.e., Singapore investing in education) 
-
-* Understand government's main domains/sectors/priorities. - for example, digital innovations on transparently using funds and budgeting. 
+UNICEF Kazakhstan conducted DPG needs assessment in Kazakhstan  in identifying gaps and needs that can be solved with Digital Public Goods (DPGs), identifying which solutions are already in place or be developed and placed as DPG, curating a database of information that can be leveraged to close the gaps. We also analyzed how the existing DPGs in Kazakhstan can be scaled to grow to other countries and be used more widely. Additionally, we analyzed government capabilities to create, adopt, procure, and maintain open-source software for government.
+The main outcomes of the needs assessment will reflected in  joint plans with relevant ministries for 2022 after the validation of the reserch at Giga steering committee level this year. The main observations are grouped by the main prority areas of the needs assessment as follows:
+Digital economy and transformation
+To increase online co-creation platforms for innovation
+Accessibility and inclusion of people with special needs
+Improve the mechanism of interaction between NGOs, the private sector and the Government, since PPP partnerships are not always effective as it takes a long time to increase the number of digital products in this area
+Employment Opportunities and Skills
+Improving internet access in rural areas will reduce digital literacy inequalities
+Digital health services for children, adolescents and youth
+In general, this area is well developed from the point of view of the DPGs for providing access to digital health services, however, there are practically no DPGs for monitoring the health status of children with chronic diseases, including cancer; as the  best practice, there should be an  online tools that help children communicate with peers in similar conditions, help them develop emotional and mental resilience, help them manage their lifestyle.
+Education, early childhood development and school readiness
+The Ministry of Education develops educational policy centrally at the national level, after which all functions for the selection of educational platforms and decisions are transferred to the jurisdiction of local executive bodies. Local executive bodies enter into contracts with private companies. It is recommended that a nationwide e-learning platform should be created and or other online platforms needs to be aligned with generally established national and international DPG standards.
+The mechanism of interaction within the framework of a PPP is time-consuming and an exit strategy must be developed in the event of the end of the PPP
+Children's online safety
+In general, there is some degree of control and monitoring of online content, whitelisting and blacklisting at the level of large service providers for 18+ content, however this area is not in the field of view of public stakeholders and NGOs and among others is a less developed area. Requires the development of regulations governing the area of responsibility and regulations
+There is an urgent need for digital tools to raise awareness about children's safety on the Internet. Filters and access control tools are missing. 
+ 
 
 ### Funding Allocation – UNICEF Kazakhstan & Astana Hub 
 
-1. Incentivized 000 USD per startup. One of them used blockchain technology and required more funding at 1K.  There was also an investment of USD 2K into another startup. 
+1. Incentivized 3000 USD per startup. One of them used blockchain technology and required more funding at 1K.  There was also an investment of USD 2K into another startup. 
 
 2. Astana Hub directly funds the startups, this is in agreement with UNICEF where UNICEF funds the accelerator as an implementation partner and the accelerator funds the startup. 
 
