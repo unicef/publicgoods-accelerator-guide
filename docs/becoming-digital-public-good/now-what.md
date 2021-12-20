@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# You have become a Digital Pubic Good!  Now, what?
+# You have become a Digital Public Good!  Now, what?
 
 ## Digital Public Goods Alliance (DPGA) 
 Once a project becomes a DPG and is listed in the registry.  DPGA will promote and announce the project/startup to the DPGA ecosystem through social , newsletter and additional relevant communications (blogs, talks, papers).  Presence in the Registry is also a pre-requisite for being highlighted by a community of practice which is additional exposure.  The DPGA takes note of newly vetted DPGs and make relevant connections where they see them within the ecosystem.  DPGA is currently piloting a “community call” for a subset of DPGs (currently focused on Digital Public Infrastructure, DPIs). 
