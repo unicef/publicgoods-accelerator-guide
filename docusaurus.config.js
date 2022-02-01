@@ -25,10 +25,12 @@ const config = {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           editUrl: 'https://github.com/unicef/publicgoods-accelerator-guide/edit/main/',
+          routeBasePath: '/',   // docs-only mode https://docusaurus.io/docs/docs-introduction#docs-only-mode
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },
+        blog: false, // Optional: disable the blog plugin
       }),
     ],
   ],
@@ -37,18 +39,18 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'Accelerator Guide',
+        title: 'Digital Public Goods Accelerator Guide',
         // logo: {
         //   alt: 'My Site Logo',
         //   src: 'img/logo.svg',
         // },
         items: [
-          {
-            type: 'doc',
-            docId: 'introduction/how-to-use-this-guide',
-            position: 'left',
-            label: 'Guide',
-          },
+          // {
+          //   type: 'doc',
+          //   docId: 'introduction/how-to-use-this-guide',
+          //   position: 'left',
+          //   label: 'Guide',
+          // },
           {
             href: 'https://github.com/unicef/publicgoods-accelerator-guide',
             label: 'GitHub',

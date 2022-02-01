@@ -2,7 +2,7 @@
 sidebar_position: 5
 ---
 
-# DPG Successful Country Office Examples Pathfinding Pilots
+# Successful DPG Country Office Examples: Pathfinding Pilots
 
 If you need more convincing, how about we take a brief look at what DPGs have already done (more details on the process of DPG nomination will be shown at the end of the guide)
 * _**Resource:**_ [High level Brief on Pathfinding Pilot Examples](https://digitalpublicgoods.net/what-we-do/)

@@ -2,7 +2,7 @@
 sidebar_position: 6
 ---
 
-# How can I support on the business mentorship side?
+# Business Mentorship
 
 ## Open Source Business Model Canvas
 Given that we know what benefits open source brings and what challenges you may face, let’s talk about how to develop and execute a Open Source Business Model. Many of the steps are the same for all businesses and are not unique to open source businesses. For example, we have adapted some of the content on The Lean Startup Model, a methodology for developing products based on validated learning, which calls for soliciting customer feedback quickly and often, and creating further iterations of the product based on that feedback.  

@@ -87,13 +87,17 @@ Check the standard & review nomination the SDG relevance and the Open Source Lic
 If the project actually belongs to the organization, I.e, verify by looking at the website, and to what extent is the ownership talked about by organizations (trademark and copyright information).
 
 
-### 4. Platform Independence (most likely not a challenge) 
+### 4. Platform Independence 
 *  Those that make data available only on certain platforms, then it would be a challenge. 
   * Does it depend on proprietary software?  If so, it also needs to be compatible of open source that you can rely on. 
 * _**Tip:**_: For example, It cannot heavily rely on backend proprietary software, even with a front end open source software.  If this is the case, than they need to provide alternatives to open source backend.
 
 
-### 5. Documentation (Take approximately 1 week to prepare): github.com/unicef/publicgoods-candidates/blob/main/docs/help-center/documentation.md 
+### 5. Documentation: 
+
+Refer to the [Help Center Documentation](https://github.com/unicef/publicgoods-candidates/blob/main/docs/help-center/documentation.md) 
+
+
 * Overview – (Approximate duration to write/prepare: 5 minutes)
 
 * Architectural Diagrams (the most important!) - (Approximate duration to write/prepare: 5 minutes)
@@ -120,7 +124,7 @@ If the project actually belongs to the organization, I.e, verify by looking at t
  Please provide a link to validate this.  github.com/unicef/publicgoods-candidates/blob/main/docs/help-center/best-practices.md
    * _**Tip:**_ If they used a certain standard, there is documentation on a specific API to show they comply to the open standard.
 
-### 9. Does the Project do no harm? (Does not take too long to prepare)
+### 9. Does the Project do no harm?
 * **Takes steps to anticipate, prevent and do no harm?** Looking it in the light of privacy (what steps have they taken to secure data and security) 
    * _**Tip:**_ Access control rights of data – , I.e., data security, or the data is accessed only by those over the age of 18.  And the system is only used by the employees of the organization (and there are recruitment 
    * _**Tip:**_ They have a disclaimer to the individuals they have protocol in place for security of their data. 

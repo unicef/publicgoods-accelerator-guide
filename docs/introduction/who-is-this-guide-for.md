@@ -4,7 +4,7 @@ sidebar_position: 2
 
 # Who is this Guide for?
 
-## PrimaryAudience:
+## Primary Audience:
 
 ### _Accelerators_
 * Open Source Curious Accelerators (who are interested in supporting OS, but don’t know how to, and learning from other best practices)

@@ -2,11 +2,11 @@
 sidebar_position: 4
 ---
 
-# Additional Open Source Mentorship Topics & Resources (Project Management, Documentation..etc)
+# Project Management & Documentation
 
 Now that the startup knows which open source license to obtain, let's help set the startup for open source success! 
 
-## Is your project source code already on a githosting platform? 
+## Is your project source code already on a git-hosting platform? 
 
 Below is taken as an example from UNICEF Innovation Fund: Standards and best practices for starting and Managing your open-source repository, and other related open-source documentation  
 
@@ -15,6 +15,7 @@ This guide is meant to serve as an introduction to using a Github account for ho
 To help you meet the aforementioned requirements, you can find here guidance on (1) setting up, managing and maintaining open repositories, as well as (2) best practices for developing in the open (or, engineering in an open, collaborative environment).  
 
 ## Open-source Repositories
+
 To meet the Innovation Fund requirements, you will need to create an accessible open source repositories on Github/GitLab/Bitbucket that track changes. For other digital content outside of code, you are free to use other repositories (thingiverse, instructables) or centralized ones (such as your own website / domain). 
 
 At minimum, we are asking you to setup git, ([Please follow steps here](https://help.github.com/articles/set-up-git/)) and create a github repository ([Follow steps here](https://help.github.com/articles/create-a-repo/)).
@@ -68,7 +69,7 @@ At minimum, we are asking you to setup git, ([Please follow steps here](https://
 
 * **Software/API:** The source code for the application layer, including well-documented instructions for setting up the multiple components, deploying docker images, Any drivers necessary for the chipsets should be included here as well. This should all be linked to on github.  
 
-# Developing in the Open – Project Management 
+## Developing in the Open – Project Management 
 The following guidelines are resources for best practices during engineering and project development that can allow for the community and volunteers to understand and contribute to your project.  
 
 1. [**Keep a changelog**](https://keepachangelog.com/en/1.0.0/) to help stakeholders and community members keep up with your project without having to read every commit.  
@@ -104,7 +105,8 @@ The following guidelines are resources for best practices during engineering and
 
    * [The Case For Open-Source Design: Can Design By Committee Work?](https://www.smashingmagazine.com/2010/09/the-case-for-open-source-design-can-design-by-committee-work/) is a particularly good critique of the role of design in open-source. 
 
-### Documentation
+## Documentation
+
 The following technical resources can be found [here](https://unicef.github.io/inventory/documentation/): 
 
 * Code of Conducts 
@@ -119,7 +121,8 @@ The following technical resources can be found [here](https://unicef.github.io/i
 
 * User documentation
 
-### Project management
+## Project management
+
 The following technical resources can be found [here](https://unicef.github.io/inventory/project-management/): 
 
 * Project boards 

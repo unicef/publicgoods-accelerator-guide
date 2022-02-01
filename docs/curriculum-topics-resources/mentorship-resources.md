@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Topics Covered in Open Source Mentorship & Resource for Startups (OS Inventory)
+# Mentorship & Resources for Startups
 
 ## Use UNICEF’s Open Source Inventory 
 

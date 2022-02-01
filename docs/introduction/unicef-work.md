@@ -2,7 +2,7 @@
 sidebar_position: 3
 ---
 
-# Introduction to UNICEF's Work
+# UNICEF's Work
 
 ## UNICEF Office of Innovation
 

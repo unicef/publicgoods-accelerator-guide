@@ -2,7 +2,7 @@
 sidebar_position: 5
 ---
 
-# Open Source Milestones & Challenges Supporting Startups Going Open Source 12 Months Programme
+# Milestones & Challenges
 
 Below you can find, sample milestones and structures that are implemented for the startups 
 

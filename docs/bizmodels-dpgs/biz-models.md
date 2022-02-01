@@ -2,7 +2,7 @@
 sidebar_position: 3
 ---
 
-# How can open source business models make money? (Myths, Opportunities, Challenges)
+# How can open source businesses make money?
 
 ## Before considering if it is a DPG, we have to understand, what is considered open source?
 

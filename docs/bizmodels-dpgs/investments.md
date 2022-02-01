@@ -2,7 +2,7 @@
 sidebar_position: 4
 ---
 
-# Investment Cases of Private Funded Open Source Business Models
+# Privately Funded Open Source Business Models
 
 Still unsure of open source? Take a look at these investment cases of open source businesses and DPGs that have been privately funded.
 
