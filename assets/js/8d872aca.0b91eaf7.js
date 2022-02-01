@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkaccelerator=self.webpackChunkaccelerator||[]).push([[1119],{9762:function(a){a.exports=JSON.parse('{"allTagsPath":"/publicgoods-accelerator-guide/blog/tags","slug":"/publicgoods-accelerator-guide/blog/tags/docusaurus","name":"docusaurus","count":4,"permalink":"/publicgoods-accelerator-guide/blog/tags/docusaurus"}')}}]);
