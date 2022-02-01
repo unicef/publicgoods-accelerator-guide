@@ -66,7 +66,7 @@ const config = {
             items: [
               {
                 label: 'Guide',
-                to: '/docs/introduction/how-to-use-this-guide',
+                to: '/',
               },
             ],
           },
