@@ -17,7 +17,7 @@ In short, for a startup to create a Digital Public Good opens avenues for primar
 7. **Mentorship by Tech Companies:** With our network of corporate partners as well, there is potential for collaboration and technical mentorship for the startups.
 
 ## What happens after the startup gets endorsed as a Digital Public Good by DPGA?
-DPGA is constantly adding additional offerings to support vetted digital public goods, here is a quick summary of the current and upcoming benefits to recognized digital public goods.
+DPGA is constantly adding additional offerings to support vetted digital public goods, here is a quick summary of the current and upcoming benefits to be recognized as a digital public good.
 
 **Current:**
 * Assessed projects will be informed by the DPGA
