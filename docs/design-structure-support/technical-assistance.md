@@ -25,7 +25,7 @@ Open source projects often rely on many different people to contribute to the pr
 Resource: Interested in trying out open source for yourself, you can try making your own GitHub repository by following the steps on [this page](https://docs.github.com/en/get-started/quickstart/create-a-repo).
 
 ### Open Source Forums
-Before deciding to go open source, startups should spend some time interacting with an existing open source community to better understand what it's like to work openly. It's best to select an open-source product already being used by the started and joining their community. Most open source communities are very welcoming to newcomers!  Most open source projects will also have forums for discussion on any topics relating to the project.
+Before deciding to go open source, startups should spend some time interacting with an existing open source community to better understand what it's like to work openly. It's best to select an open-source product already being used by the startup and joining their community. Most open source communities are very welcoming to newcomers!  Most open source projects will also have forums for discussion on any topics relating to the project.
 
 Here are some examples of open source forums:
 * [OpenStreetMap forum](https://forum.openstreetmap.org/)
