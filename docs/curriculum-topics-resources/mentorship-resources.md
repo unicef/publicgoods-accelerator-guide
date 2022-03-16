@@ -4,132 +4,132 @@ sidebar_position: 1
 
 # Mentorship & Resources for Startups
 
-## Use UNICEF’s Open Source Inventory 
+## Use UNICEF’s Open Source Inventory
 
-Leverage this [Inventory](https://unicef.github.io/inventory/meta/mentorship/onboarding/) as a self serve and directory of resources and “How-to’s” for a startup looking to and/or operating on an open source business. 
+Leverage this [Inventory](https://unicef.github.io/inventory/meta/mentorship/onboarding/) as a self serve and directory of resources and “How-to’s” for a startup interested in or operating on an open source business.
 
 The Open Source Inventory is a knowledge-base of best practices around creating and working with Open Source works. This is an important resource for the Open Source Mentorship and was created based on experiences of previous graduates of the UNICEF Innovation Fund. You can also request new topics to be added to the knowledge-base too.
 
-## Topics covered in Open Source Mentorship
-These modules are offered as part of the Innovation Fund Open Source Mentorship.  More can be found in the [UNICEF O.S. Inventory Mentorship Modules](https://unicef.github.io/inventory/meta/mentorship/modules/). 
+## Topics Covered in Open Source Mentorship
+These modules are offered as part of the Innovation Fund Open Source Mentorship.  More can be found in the [UNICEF O.S. Inventory Mentorship Modules](https://unicef.github.io/inventory/meta/mentorship/modules/).
 
-### Legal & Licensing: Foundations of Open Source Intellectual Property 
-The Open Source licenses are the legal foundation of your project. By the end of this module, you should understand how the limits and bounds of your Open Source license impact the rules of your business model. 
+### Legal & Licensing: Foundations of Open Source
+The Open Source licenses are the legal foundation of your project. By the end of this module, you should understand how the limits and bounds of your Open Source license impact the rules of your business model.
 
-**Topics included:** 
-* Contributor License Agreements (CLAs) 
+**Topics included:**
+* Contributor License Agreements (CLAs)
 
-* Licenses (MIT License, Apache License, GPL licenses, etc.) 
+* Licenses (MIT License, Apache License, GPL licenses, etc.)
 
-* Copyleft licenses 
+  * Copyleft licenses
 
-* Permissive licenses 
+  * Permissive licenses
 
-* Open Source business models 
+* Open Source business models
 
-* Open Source Definition 
+* Open Source Definition
 
-* Open Source Initiative 
+  * Open Source Initiative
 
-### Launching your Open Source Project
-This module is for **early-stage Open Source projects** that are still in active development. By the end of this module, you should understand common Open Source development workflows and how to enable collaboration with advanced features of your source code-hosting platform. 
+### Launching Your Open Source Project
+This module is for **early-stage open source projects** that are still in active development. By the end of this module, you should understand common open-source development workflows and how to enable collaboration with advanced features of your source code-hosting platform.
 
-**Topics included:** 
-* Brand and identity 
+**Topics included:**
+* Brand and identity
 
-* Git platforms: GitHub, GitLab, Bitbucket, Pagure, etc. 
+* Git platforms: GitHub, GitLab, Bitbucket, Pagure, etc.
 
-* Pull Request workflow 
+* Pull Request workflow
 
-* READMEs 
+* READMEs
 
-* Using issues to manage product feedback 
+* Using issues to manage product feedback
 
-### Open Source documentation
-This module introduces the following: 
+### Open Source Documentation
+This module introduces the following:
 
-1. Common tools and platforms used for Open Source documentation; 
+1. Common tools and platforms used for open-source documentation;
 
-2. How to build an automated pipeline to deploy new documentation in real-time; 
+2. How to build an automated pipeline to deploy new documentation in real-time;
 
-3. Building a documentation culture and community in your project; 
+3. Building a documentation culture and community in your project;
 
-4. Creating structure to enable external contributions to documentation. 
+4. Creating structure to enable external contributions to documentation.
 
-By the end of this module, your project will have an Open Source documentation site and a plan on how to maintain the documentation over time. This module is for any Open Source project, at any stage, that wants to improve their documentation acumen and invite others to collaborate and contribute. 
+By the end of this module, your open source project will have a documentation site and a plan on how to maintain the documentation over time. This module is for any open source project, at any stage, that wants to improve their documentation acumen and invite others to collaborate and contribute.
 
-**Topics included:** 
+**Topics included:**
 
-* Automation tools (e.g. GitHub Actions, Circle CI, etc.) 
+* Automation tools (e.g. GitHub Actions, Circle CI, etc.)
 
-* Contribution guidelines 
+* Contribution guidelines
 
-* Documentation for developers 
+* Documentation for developers
 
-* Documentation for users 
+* Documentation for users
 
-* Tool-chains 
+* Tool-chains
 
-* Python Sphinx 
+* Python Sphinx
 
-* Hugo 
+* Hugo
 
-* Docusaurus (Facebook) 
+* Docusaurus (Facebook)
 
-### Continuous Integration for continuous contribution
-As in life, Open Source projects will change over time. As you manage new changes to the source code of a project, how do you verify that new changes do not break existing code? You can spend time manually validating changes and testing them locally. But you can also automate it using workflow automation tools. This module introduces Continuous Integration (C.I.) and Continuous Deployment (C.D.) in an Open Source context. 
+### Continuous Integration for Continuous Contribution
+As in life, open source projects will change over time. As you manage new changes to the source code of a project, how do you verify that new changes do not break existing code? You can spend time manually validating changes and testing them locally. But you can also automate it using workflow automation tools. This module introduces Continuous Integration (C.I.) and Continuous Deployment (C.D.) in an open source context.
 
-By the end of this module, your project will have a working CI/CD pipeline for your Open Source repositories. New changes to the repositories will be validated against a basic set of tests, depending on what kind of software you are building. This module is for any Open Source project, at any stage, that wants to improve code quality, code health, and save time from manually testing and validating new code changes. 
+By the end of this module, your project will have a working CI/CD pipeline for your open source repositories. New changes to the repositories will be validated against a basic set of tests, depending on what kind of software you are building. This module is for any open source project, at any stage, that wants to improve code quality, code health, and save time from manually testing and validating new code changes.
 
-**Topics included:** 
+**Topics included:**
 
-* CI/CD platforms (e.g. Circle CI, GitHub Actions, Jenkins, etc.) 
+* CI/CD platforms (e.g. Circle CI, GitHub Actions, Jenkins, etc.)
 
-* Code test coverage and unit tests, if applicable 
+* Code test coverage and unit tests, if applicable
 
-* Deploy new changes to software or documentation to a testing or production environment 
+* Deploy new changes to software or documentation to a testing or production environment
 
-* Pull Request Workflows with a CI pipeline 
+* Pull Request Workflows with a CI pipeline
 
 * Code health tools to monitor and alert to best practices and warning signs
 
-### Archetypes: Shape and size of Open Source over time
- By the end of this module, you will have an understanding of the different forms an Open Source project and community may take. You will also be able to identify where your project falls and make predictions on where it will go next. This module is for any Open Source project anticipating growth, change, or evolution to its code or the community. 
+### Archetypes: Shape and Size of Open Source Over Time
+ By the end of this module, you will have an understanding of the different forms an open source project and community may take. You will also be able to identify where your project falls and make predictions on where it will go next. This module is for any open source project anticipating growth, change, or evolution to its code or the community.
 
-**Topics included:** 
+**Topics included:**
 
-* Project archetypes: 
+* Project archetypes:
 
-* Business-to-Business (B2B) Open Source 
+  * Business-to-Business (B2B) Open Source
 
-* Multi-Vendor Infrastructure 
+  * Multi-Vendor Infrastructure
 
-* Rocket Ship to Mars 
+  * Rocket Ship to Mars
 
-* Controlled Ecosystem 
+  * Controlled Ecosystem
 
-* Wide Open 
+  * Wide Open
 
-* Mass Market 
+  * Mass Market
 
-* Speciality Library 
+  * Specialty Library
 
-* Trusted Vendor 
+  * Trusted Vendor
 
-* Upstream Dependency 
+  * Upstream Dependency
 
-**Business models:** 
+**Business models:**
 
-* Professional/enterprise versions 
+* Professional/enterprise versions
 
-* Services around your product 
+* Services around your product
 
-* Services *are* your product 
+* Services *are* your product
 
-* Content 
+* Content
 
-* Packaging 
+* Packaging
 
-* Franchising 
+* Franchising
 
-* Training 
+* Training
