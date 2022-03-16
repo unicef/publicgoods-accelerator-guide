@@ -23,6 +23,15 @@ _ Josh Berkus, 2020, What is open source project governance?, https://opensource
 4. How can role definitions be changed?
 5. What are the project's collected policies and procedures?
 
+Additional questions for determining community governance structures:
+https://codebender.org/governance/#21
+* Who gets a vote in your group?
+* How are new people added to that pool?
+* When and how do people lose their votes?
+* Where and how do other people find out what has been decided and how it affects them?
+* Where and how can non-voters raise issues?
+
+
 ## **Governance Models**
 
 Model | Description | Advantage(s) | Risk(s)
