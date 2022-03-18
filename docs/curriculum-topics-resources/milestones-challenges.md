@@ -88,6 +88,6 @@ This quarter leaves time to address any pending items from previous quarters, an
     * [Overview of the Open Source mentorship program - video](https://youtu.be/smfbTSzeoS0)
     * [Slides: Open Source Mentorship](https://docs.google.com/presentation/d/1QTQoAhCTDKGZto4rlL1AOp6p6GgEOJzNW6VzFDTslVg/edit#slide=id.g378b9093ea_0_0)
 
-3.  **Understanding the difference between licenses**, even after looking at the licenses that matches with their business solutions.  Navigate to the section of "Which open source license should I get?" in the guide for more information.
+3.  **Understanding the difference between licenses**, even after looking at the licenses that matches with their business solutions.  Navigate to the section of the [open source license primer in the guide](open-source-licenses.md) for more information.
     * First step, is understanding whether they choose permissive or copyleft licenses: https://unicef.github.io/inventory/meta/modules/
     * Resources: [Frequently asked questions about DPGs](https://resources.digitalpublicgoods.net/) ([Creating an Open Source Strategy](https://www.linuxfoundation.org/en/resources/open-source-guides/setting-an-open-source-strategy/), and [List of Updated OS Licenses by Category](https://opensource.org/licenses/category))
