@@ -63,5 +63,5 @@ Projects can be added as nominees to the DPG Registry at any time via an open pr
 
 Please check the [submission guide](https://digitalpublicgoods.net/submission-guide) in advance to know what information will be requested. If you do not have all of the information about a project you may still submit it. Please provide as much information as possible. Projects with more complete information will move more quickly through the vetting process.
 
-_For more details on the DPG Nomination process, and what documentation is required, please head to the "How Can I Support a startup for DPG Nomination?" section of the guide._
+_For more details on the DPG Nomination process, and what documentation is required, please head to the "Becoming a Digital Public Good" section of the guide._
 
