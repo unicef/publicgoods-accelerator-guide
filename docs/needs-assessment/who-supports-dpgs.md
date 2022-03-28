@@ -60,7 +60,15 @@ _What's in it for them?  How can I bring value to this stakeholder and conversat
 
 _**See case study in the section of  "Accelerators Supporting DPGs" - ING & UNICEF Fintech cohort" in the guide.**_
 
-## Engaging with Local Community - to be added
+## Engaging with Local Community
+Listed below are recommendations from UNICEF Ghana from their experience engaging with the local community.
+
+- Find open-source developer groups (e.g. grouped around Open Street Maps; GIS; Linux)
+- These groups are often found at ICT/Technology universities or faculties. Especially in developing countries these groups tend to be small to moderate, which means that by identifying a single person involved in the local OS scene you are exposed to the entire community
+- Track OS-related events, for example Global Software Freedom Day (example in Ghana)
+- Basic desktop research is a good first step: search for institutions, government agencies, event speakers, technologists, developers, who over the last 2-3 years vocally supported OS in interviews, on LinkedIn, or on social media
+- Reach out to FSF (Free Software Foundation), inquire/search for communities/members focused on specific countries/continents. Again, usually one relevant person is enough for an exposure to an entire community.
+
 ### OS Developers & IT Community
 ### Other accelerators or incubators
 
