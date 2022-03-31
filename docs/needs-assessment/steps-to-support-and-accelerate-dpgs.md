@@ -20,29 +20,25 @@ If the audience of the cohort or alumni have potential interest on this topic, y
 * _Other:_ Should this startup be open source?
 * _Other:_ Does this startup solution align to the government’s strategic priorities? For example, in Kazahkstan the government priorities are tackling digital health solutions digital education skills, digital innovations around economy, child protection and internet safety.
 
-### 2.  Host an initial information session on..
+### 2.  Host an initial information session on the following:
 
 #### Open Source Awareness
-Many people know what open source is already, but don’t realize the benefits of open source.  This is where you can potentially host a workshop or speaker series on the misconceptions of open source, challenges, and benefits.   Content you can use: 
-* In this guide, the section “Before considering if it is DPG, we have to understand, what is considered open source?” 
-* **Link: Investment cases on Private Funding for Open Source Business Models** 
+Many people know what open source is already, but don’t realize the benefits of open source.  This is where you can potentially host a workshop or speaker series on the misconceptions of open source, challenges, and benefits.   You can leverage the section of "Open Source Business Models & Digital Public Goods" in the guide.
 
 #### DPG Awareness
 This can be grouped with the Open Source Awareness content.  Content you can use:
 * [Why and How to Become a DPG](https://docs.google.com/presentation/d/1AqqiGqjJTBM7DsfIz8szGXU4bL72YXM9/edit?usp=sharing&ouid=109395478007960519704&rtpof=true&sd=true) presentation deck  
-* In this guide, the section, “Why should I care about DPGs as an accelerator?” 
 
 ### 3.  Make your network & community aware of open source and Digital Public Goods
 Host a series of webinars on Open Source and Digital Public Goods (still in awareness stage, to get enough leads and interest from startups).
 * Engage other friendly startup hubs, accelerators, and private sector companies interested in open source to collaborate on these webinars.
-* **Insert topics and short description of the webinars that Kazakhstan is hosting.**
 
 ## Stage 2: Identify the startups who are considering taking their businesses open source 
-**Support the startups directly through your cohort** using this guide of engaging all the stakeholders mentioned previously and the technical resources to support.  Prepare the startup through your existing program for open source success (navigate to Setting Up for Open Source Success section in guidebook).  
+**Support the startups directly through your cohort** using this guide to engage all the stakeholders previously mentioned in thes section "Who is supporting DPGs and how do I engage with them?" and the technical resources to support.  Prepare the startups through your existing accelerator program for open source success (navigate to "Designing & Structuring support for startups in guide).  
 
-1. **Make a list of contacts and engage with government stakeholders and associations** who align with startup solution, you can also involve your local UNICEF Country Office Innovation Officer if applicable to convene this conversation. 
+1. **Make a list of contacts and engage with government stakeholders and associations** who align with the startup solution you are supporting.
 2. **Engage a network of community developers** who could potentially contribute to the open source solution – if there are specific sector hackathons that align with the startup. 
-3. Once the startup have enough traction and a working prototype in your program, they can be great candidates for UNICEF’s Innovation Fund cohorts.  UNICEF's Innovation Fund launches a new call for applications every 3-4 months. The latest call for applications in July 2020 was focused on AI/ML to improve access to and delivery of services. While the deadline to submit applications has passed, UNICEF’s continue to accept applications on a rolling basis and will review the submissions with the next call. 
+3. Once the startup has enough traction and a working prototype in your program, they can be great candidates for UNICEF’s Innovation Fund cohorts. UNICEF's Venture Fund continues to accept applications on a rolling basis and will review the submissions with the next call. 
 4. If they are already obtaining an open source license and are building the community around their product: 
     * Apply for [UNICEF’s Innovation Fund](https://www.unicefinnovationfund.org/home)
     * Nominate them to become a DPG (navigate to Nominate a DPG) 
@@ -59,7 +55,7 @@ Host an accelerator cohort program that has a focus area on going open source.  
 ### Identify the scope of your DPG Accelerator
 Starting with the national agenda for digital transformation, your government agency could decide to focus its DPG Accelerator on specific sector(s) of DPGs that could play a major role in strengthening public services such as remote learning content and systems, financial inclusion, employment or digital health applications. The leading government agency could then help guide the acceleration program’s scope and technical assistance strategy to ensure that graduating DPGs meet the local needs and global standards for scalability. Additionally, there may be one or more acceleration or funding opportunities for innovations in the same sectors that could be helpful to align with for synchronized investment and support.
 
-1. Engage with corporate stakeholders to find joint funding and alignment, and UNICEF is happy to provide resources on the basis of funding and resources in collaboration with the accelerator.
+1. Engage with corporate stakeholders to find joint funding and alignment.
 
 2. _**Resource:**_ If the accelerator is collaborating closely with a government counterpart on implementing a startup solution as a pilot, please refer to this [DPGA Country Engagement guide.](https://docs.google.com/document/d/11Ba7c20gNo6RiaI3yeLme7ZbO-XiOJl0MqhzUPUREKs/edit). 
 
@@ -67,9 +63,9 @@ Starting with the national agenda for digital transformation, your government ag
 
 4. _**Resource:**_ [Briefing note of WASH Innovation Grand Challenge](https://docs.google.com/document/d/1h-lfQPK_rh4Wo-n02zyE2KPQTxW54lsErQFkHpBj8WA/edit#heading=h.e08ytp7g2scs)
 
-**See case studies in the guide of "Case Studies of Accelerator models Supporting Open Source Businesses & DPGs"**
+**For more information on how accelerators supported Digital Public Goods, navigate to the section "Accelerator Case Studies".**
 
-### Supporting at various open source stages of a startup (To be added with content)
+### Supporting at various open source stages of a startup - to be added with additional information
 Just as an accelerator may have specific focus areas on industries or selection criteria on the stage of the startup.  This guidebook will help support on specific stages of where a startup is at building their open source product, such as:
 * Supporting existing businesses looking to go open source 
 * Supporting existing open-source businesses 
