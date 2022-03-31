@@ -2,16 +2,10 @@
 sidebar_position: 5
 ---
 
-# Successful DPG Country Office Examples: Pathfinding Pilots
-
-If you need more convincing, how about we take a brief look at what DPGs have already done (more details on the process of DPG nomination will be shown at the end of the guide)
-* _**Resource:**_ [High level Brief on Pathfinding Pilot Examples](https://digitalpublicgoods.net/what-we-do/)
-
-## What are pathfinders?
-The Digital Public Goods Alliance works with partners and government entities in low- and middle-income countries to pilot new ways to change the power balance around technology solutions. We call these “pathfinders”. Through their experience implementing digital public goods, pathfinders help define use cases, identify needs, inform adaptations, and enable policy frameworks. Through pilots, they share learnings for both the creation of new DPGs from different approaches for building local capacity, and for existing DPGs that are locally managed through adaptation and implementation.
+# Successfully Scaled Digital Public Goods (DPGs)
 
 ### DPG Example #1, Global Digital Library
-Announced on 2 March, 2021, this pathfinding pilot will be coordinated jointly by Norad and the Association for the Development of Education in Africa (ADEA). It focuses on how to enable governments to translate openly licensed early grade reading books from the [Global Digital Library](https://digitallibrary.io/) into national languages.
+Announced on 2 March, 2021, this DPG pathfinding pilot will be coordinated jointly by Norad and the Association for the Development of Education in Africa (ADEA). It focuses on how to enable governments to translate openly licensed early grade reading books from the [Global Digital Library](https://digitallibrary.io/) into national languages.
 
 **Rwanda **has paved the way for this pilot by translating and providing government approval through the **Ministry of Education** for 50 books from English to Kinyarwanda. The launch of these books was used to announce the pathfinding pilot, and the results of Rwanda’s pilot will be used to help onboard additional pathfinders from up to nine African countries looking to improve access to quality learning resources for enhancing reading skills in their local languages. To learn more about this pathfinding pilot, please see this [briefing note](https://drive.google.com/file/d/1FdS9lXCeL3hsewv759RA6yrNRxazrT47/view?usp=sharing).
 
