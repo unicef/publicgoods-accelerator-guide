@@ -88,7 +88,12 @@ _What's in it for them?  How can I bring value to this stakeholder and conversat
 * If the conversation on open source challenges comes up with an investor, you can present them the [Page 9 in this deck: Challenges in investing in DPGs with Mitigations & Examples](https://drive.google.com/file/d/1qmY70vws9phoqh2_VpwTr0jjLKrN5jGF/view?usp=sharing).
 
 ## Engaging with UN Agencies
-Our network of UN Agencies gives the ability for startups to scale in terms of implementation of their project/solution.  If there are specific country offices you'd like to get in touch with, please reach out directly to our programme team for the connection, Cheryl Ng, Startup Ecosystem Consultant, cng@unicef.org. 
+The network of UN Agencies gives the ability for startups be supported and opens up implementation opportunities of their project/solution.
+*  [UNICEF's Venture Fund](https://www.unicefinnovationfund.org/)
+*  [UNDP Accelerator Labs](https://acceleratorlabs.undp.org/)
+*  [SDG Investor Platform](https://sdginvestorplatform.undp.org/)
+*  [WFP Innovation Accelerator](https://innovation.wfp.org/)
+*  [UN Innovation Network](https://www.uninnovation.network/)
 
 ## Engaging with DPGA
 Digital Public Goods Alliance (DPGA) is a multi-stakeholder initiative where the team can assist when the startup is ready for a DPG nomination.  To find out if the startup is ready for a DPG nomination, they can take the [eligibility questionnaire](https://digitalpublicgoods.net/eligibility/) before nominating.  This process normally takes about 1-2 months depending if the startup has good documentation on their project and privacy protection and data security. The basic technical requirement would be having an open source license, amongst 8 other indicators.  **It is highly recommended that someone with great product knowledge take lead in the nomination process, working together with the lead developer work,** as it requires documents to show evidence for the 9 indicators. 
