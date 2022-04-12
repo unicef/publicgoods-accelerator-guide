@@ -6,9 +6,6 @@ sidebar_position: 1
 
 ## Who are the main stakeholders involved in supporting DPGs on a country and global level?
 Who do I need to speak with in order to support startups who are looking to take their product as a Digital Public Good? It is key for accelerators to understand who is supporting DPGs, who can you could contact to facilitate discussion and support for DPGs in terms of funding? 
-* **_Resource_**: To understand a bit more about the key stakeholders and what roles they may play in supporting DPGs, see the [: To understand a bit more aout the key stakeholders and what roles they may play in supporting DPGs, see the Assessment of Digital Public Goods in Kazakstan here.](https://drive.google.com/file/d/1M7aFrzJElcU4cqX-jwvWIY1gWLmXBu_e/view?usp=sharing).
-
-_**List of global accelerators: https://www.startupblink.com/accelerators**_
 
 ## Engaging at the Government Level
 ### Entrepreneurship development funds/agency
@@ -27,7 +24,7 @@ _What's in it for them?  How can I bring value to this stakeholder and conversat
 
 _**See case study in the section of  "Accelerators Supporting DPGs" - UNICEF Kazakhstan and Astana Hub" in the guide.**_
 
-### Ministries related to DPGA's Community of Practices
+### Ministries
 These can be specific ministries that a DPG can implement and co-develop into their Digital Public Infrastructure, such as the Ministry of Science Technology Innovation or equivalent, Ministry of Education or equivalent, Ministry of Economy and Finance or equivalent, Ministry of ICT or equivalent.
 
 _Why should I care as an accelerator?_
@@ -48,15 +45,14 @@ _**Example - [UNICEF and WHO Launch COVID Digital Health Centre of Excellence (D
 These are private sector companies that can be sector agnostic, but have a corporate social responsibility or social innovation arm.
 
 _Why should I care as an accelerator?_
-* Opportunity for startups that you support to be implemented on a government level, whether it's municipal, provincial or national.  
-* Understand what the government priorities are that potential DPGs can be implemented into the digital public infrastructure.
+* These corporations can also be potential partners to help fund the programming in monetary or other non-monetary benefits.
+* Collaborating or partnering with a corporation may give more visibility and branding to your accelerator.
+* They can bring specific expertise to your accelerator, especially on open source business and technical mentorship.
 
 _What's in it for them?  How can I bring value to this stakeholder and conversation?_
-* Presenting the current case study and evident public solutions deployed in other countries & success 
-* Presenting a minimum basket of DPGs – that would be related to sharing this with other ministries
-* Potential promotion for a callout on digital public solutions in collaboration with your accelerator to identify solutions that can be implemented
-* Potential for local startups to be highlighted as Digital Public Good, media surrounded around innovation & startups
-* Connecting to other ministries globally through UNICEF & DPGA network
+* Presenting the current case study and evident public solutions deployed in other countries & success - see Accelerator Case studies section. 
+* If the corporate is focused on CSR, by partnering with your accelerator on DPGs, they are supporting solutions that are relevant to the SDGs and a chance for their employees to be engaged through mentoring the startups as well.
+* The DPG solutions that are supported by your accelerator could potentially present itself as a business solution relevant to challenges of the corporate of SMEs.
 
 _**See case study in the section of  "Accelerators Supporting DPGs" - ING & UNICEF Fintech cohort" in the guide.**_
 
@@ -101,6 +97,6 @@ _What's in it for them?  How can I bring value to this stakeholder and conversat
 * Accelerators could potentially participate or contribute to the [DPGA Roadmap](https://drive.google.com/file/d/11COD41W7VkDUVGgBFUSCCQatU3Hvj4du/view?usp=sharing), on providing opportunities that accelerate the DPGs.  The [DPGA annual roadmap](https://digitalpublicgoods.net/roadmap/) is a transparent coordination, alignment, engagement and communication tool capturing stakeholder activities that significantly advance DPGA strategic objectives.  This could be potential helping source, identify and support DPGs.   
 
 ### To be added:
-### Funding opportunities: mapping out DPG related activities and funding
-### DPG Alliance members to reflect their resources in the roadmap – what opportunities do you have for startups?
-### Links & Databases of local opportunities
+* Funding opportunities: mapping out DPG related activities and funding
+* DPG Alliance members to reflect their resources in the roadmap – what opportunities do you have for startups?
+* Links & Databases of local opportunities
