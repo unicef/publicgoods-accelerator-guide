@@ -15,7 +15,7 @@ sidebar_position: 1
 6. Mechanism for Extracting Data 
 7. Adherence to Privacy and Applicable Laws 
 8. Adherence to Standards & Best Practices 
-9. Do No Harm by design (including steps to address privacy, security, inappropriate and illegal content, and protection from harassment)
+9. Do No Harm by design (including steps to address privacy, security, inappropriate and illegal content, and protection from harassment).
 
 Meeting and utilizing the DPG Standard and the DPG Registry is essential to a successful DPGA country engagement pilot, as doing so helps inform  future country engagement activities and test the DPG Standard and DPG Registry in action. These concepts are described in more detail below.  
 
