@@ -1,6 +1,7 @@
 ---
 sidebar_position: 3
 ---
+# Open Source Benefits & Challenges
 
 ## Startup Benefits of Going Open Source
 
