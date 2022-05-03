@@ -4,8 +4,6 @@ sidebar_position: 1
 
 # DPG Nomination Process
 
-Before nominating a DPG, check to see if there is already an existing Digital Public Good that may offer a similar solution in the [DPG Registry](https://digitalpublicgoods.net/registry/).
-
 **_What if I have questions about a project on the registry?_**
 If you have a question about a project on the registry, including if you have identified a DPG nominee as promising for potential pathfinding piloting and need to ensure that it is swiftly assessed against the DPG Standard, please reach out to nominations@digitalpublicgoods.net. 
 

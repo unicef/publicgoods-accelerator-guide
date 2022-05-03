@@ -2,15 +2,15 @@
 sidebar_position: 3
 ---
 
-# How can open source businesses make money?
+# Understanding Open Source Business and Financial Models 
 
-## Before considering if it is a Digital Public Good (DPG), we have to understand, what is considered open source?
+## Before considering if it is a DPG, we have to understand, what is considered open source?​
 
-A Digital Public Good (DPG) must meet the standard indicator of operating on an open source license, therefore the startup or a part of the business model must be open source. We will go in depth about the technicalities of open source in this guide. On a high level, here’s what you need to know.
+DPGs must use an open source license, therefore the startup or a part of the business model must be open source. We will go in depth about the technicalities of open source in this guide. On a high level, here’s what you need to know. 
 
-**Open source is a way to license software, hardware, and content in a way that allows them to be continuously improved, modified and redistributed by any purpose commercially.**  Some companies see open source as marketing, as a community, free organic marketing - adoption mechanism.
+Open source is a way to license software, hardware, and content so that they can be be continuously improved, modified and redistributed by any purpose commercially. Some companies see open source as an adoption mechanism through building a community which leads to free organic marketing.
 * _**Resource:**_ [Open Source 101, why is it important?](https://docs.google.com/presentation/d/11TsgvcEFkr1V_mkekauvOdpMImYnZWMJsqN0X5-IC5I/edit)
-* _**Resource:**_ [FREE Online Agora Open Source Business Model Course](https://agora.unicef.org/course/info.php?id=18096) -  Free online course to take a deep dive into Open Source models and understanding the ecosystem further. If you are eager to push forward before our first mentorship call, this is a good place to start!
+* _**Resource:**_ [FREE Online Agora Open Source Business Model Course](https://agora.unicef.org/course/info.php?id=18096) - Free online course to take a deep dive into opensource models and understanding the ecosystem further.
 
 ### **Open source is also…**
 
@@ -19,10 +19,10 @@ A Digital Public Good (DPG) must meet the standard indicator of operating on an 
 To develop and distribute software and a set of best practices to make software and build teams that make software | Movement based on ideals and philosophy beyond only code | Collection of people, values, and ideas that take the form of software projects and communities 
 
 ### What are the challenges that startups typically face?
-- **Cost:** Many startup struggle to develop sustainable cost structure.  Market competitiveness now requires significant investment in R&D, testing, and product development, which includes surveying, research, coding and more, all of which many companies have minimal budgets for. 
-- **Funding:** Especially in developing and emerging market, it is often difficult to gain access to seed funding and risk financing. 
-- **Copyright:**  It is becoming increasingly difficult to protect IP, so businesses that create and capture their entirely from a proprietary product are being threatened by competition. 
-- **Diversity:** More companies are discovering the importance of having diverse teams, which can add a rich range of perspectives that can widen a company's reach and enrich successful product development.  As such, companies with very homogenous teams are falling behind.
+- **Cost:** Many startups struggle to develop sustainable cost structures. Market competitiveness now requires significant investment in R&D, testing, and product development, which includes surveying, research, coding and more, all of which many companies have minimal budgets for.
+- **Funding:** Many startups struggle to develop sustainable cost structures. Market competitiveness now requires significant investment in R&D, testing, and product development, which includes surveying, research, coding and more, all of which many companies have minimal budgets for.
+- **Copyright:** It is becoming increasingly difficult to protect IP, so businesses that create and capture them entirely from a proprietary product are being threatened by competition.
+- **Diversity:** More companies are discovering the importance of having diverse teams, which can add a rich range of perspectives that can widen a company's reach and enrich successful product development. As such, companies with very homogenous teams are falling behind.
 
 ### What are some myths and misconceptions that exist surrounding open source?
 
