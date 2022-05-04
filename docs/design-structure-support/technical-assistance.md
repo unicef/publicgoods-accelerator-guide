@@ -26,7 +26,7 @@ Licensing may seem like a technical detail and it is easy to overlook, but the t
 
 Open source projects often rely on many different people to contribute to the project. This collaboration can take many different forms, but often, an open source project will have a public repository, which is a directory or storage space where projects live that anyone can access, which is sometimes shortened to “repo.” Common platforms for software collaboration are GitHub, GitLab, Gogs, Gitea, Bitbucket, Sourceforge, OpenForge in India, CSDN in China, and iHub in Kenya.
 
-Resource: Interested in trying out open source for yourself, you can try [making your own GitHub repository](https://docs.github.com/en/get-started/quickstart/create-a-repo) or a [GitLab project](https://docs.gitlab.com/ee/user/project/working_with_projects.html#create-a-project).
+Resource: Interested in trying out open source for yourself? You can try [making your own GitHub repository](https://docs.github.com/en/get-started/quickstart/create-a-repo) or a [GitLab project](https://docs.gitlab.com/ee/user/project/working_with_projects.html#create-a-project).
 
 **Does the repository have public documentation?**
 
@@ -36,16 +36,16 @@ In order for others to participate, a project needs thoughtful documentation in 
 * Dedicated documentation website (e.g. `docs.example.org`)
 * Public Q&A site
 
-Effective technical documentation enables others to become contributors. These let others follow in your footsteps and move more quickly to meaningful contribution, instead of figuring out how to set up a project in your configuration. The technical documentation is instructional and should outline what a path to a successful contribution is. Additionally, when the documentation is published in public repositories, documentation becomes a more open project task for outside contribution and discussion.
+Effective technical documentation enables others to become contributors. This lets others follow in your footsteps and move more quickly to meaningful contribution, instead of figuring out how to set up a project in your configuration. The technical documentation is instructional and should outline what a path to a successful contribution is. Additionally, when the documentation is published in public repositories, documentation becomes a more open project task for outside contribution and discussion.
 
 > **Q: How do you make sure that contributions are relevant, helpful, and in working order?**
 
-> _A: There is usually an approvals process where a collaborator can submit a contribution and other project leaders can decide which contributions are added to the final product.  Learn more about governance models in the next section of the guide._
+> _A: There is usually an approvals process where a collaborator can submit a contribution and other project leaders can decide which contributions are added to the final product. Learn more about governance models in the next section of the guide._
 
 ### 3. Community building
-It is a good idea for a startup to spend time interacting with an existing open source community. This builds a stronger understanding of experiences in collaborative open source projects. Ideally, the startup should select an open source product, component, or tool already used by the startup. When selecting a project, also look for good documentation and guidance for newcomers.
+It is a good idea for a startup to spend time interacting with an existing open source community. This builds a stronger understanding of experiences in collaborative open source projects. Ideally, the startup should select an open source product, component, or tool already used by the startup. When selecting a project, also look for good documentation and guidance for newcomers. 
 
-More established open source projects also have public fora for others to raise feedback and discuss about the project. These can look like web forums, discussion mailing lists, IRC or Matrix chat rooms, recurring team video meetings, Slack or Mattermost servers, and more.
+More established open source projects also have public fora for others to raise feedback and discuss the project. These can look like web forums, discussion mailing lists, IRC or Matrix chat rooms, recurring team video meetings, Slack or Mattermost servers, and more. 
 
 Here are some examples of open source forums:
 * [Fedora Linux Discussion](https://discussion.fedoraproject.org/): a certified DPG
@@ -61,17 +61,17 @@ _**Resource: See [this CHAOSS metric on Chat Platform Inclusivity](https://chaos
 
 
 ## Conduct a needs assessment on startup support
-Before designing or supporting the startup's open source journey and becoming a DPG, you will need to conduct a needs assessment on what support they will need.  This needs assessment includes, but not limited to:
+Before designing or supporting the startup's open source journey and becoming a DPG, you will need to conduct a needs assessment on what support they will need. This needs assessment includes, but is not limited to:
 
-1. Company's Problem Statement
-2. Company's Solution Statement
-3. Piloting plan/experiment summary
-4. Piloting challenges
-5. Business Model/Scalability after pilot
-6. Product and User Development – what needs to be changed/fixed for the product to qualify as beta DPG?
-7. Company performance to date
-8. Team skills/expertise - what other areas of expertise are missing on the team and why are they crucial for the pilot?
-9. Business Strategy (business model, user/customer acquisition, potential CO scale/LTA, Potential for public funds, potential for private funds)
-10. Technical Support Plan Summary
+1. Company's Problem Statement 
+2. Company's Solution Statement 
+3. Piloting plan/experiment summary 
+4. Piloting challenges 
+5. Business Model/Scalability after pilot 
+6. Product and User Development – what needs to be changed/fixed for the product to qualify as beta DPG? 
+7. Company performance to date 
+8. Team skills/expertise - what other areas of expertise are missing on the team and why are they crucial for the pilot? 
+9. Business Strategy (business model, user/customer acquisition, potential CO scale/LTA, Potential for public funds, potential for private funds) 
+10. Technical Support Plan Summary 
 
 _**Resource: The detailed [needs assessment template can be found here](https://docs.google.com/document/d/1nZ9YsVc-ENKXzoMP2KEQjHIc-k_X_1-N/edit).**_

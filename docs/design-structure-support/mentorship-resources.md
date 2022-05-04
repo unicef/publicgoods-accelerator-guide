@@ -1,5 +1,5 @@
 ---
-sidebar_position: 1
+sidebar_position: 3
 ---
 
 # Mentorship & Resources for Startups
@@ -77,7 +77,7 @@ By the end of this module, your open source project will have a documentation si
 * Docusaurus (Facebook)
 
 ### Continuous Integration for Continuous Contribution
-As in life, open source projects will change over time. As you manage new changes to the source code of a project, how do you verify that new changes do not break existing code? You can spend time manually validating changes and testing them locally. But you can also automate it using workflow automation tools. This module introduces Continuous Integration (C.I.) and Continuous Deployment (C.D.) in an open source context.
+As in life, open source projects will change over time. As you manage new changes to the source code of a project, how do you verify that new changes do not break existing code? You can spend time manually validating changes and testing them locally. But you can also automate it using workflow automation tools. This module introduces Continuous Integration (C.I.) and Continuous Deployment (C.D.) in an open source context. 
 
 By the end of this module, your project will have a working CI/CD pipeline for your open source repositories. New changes to the repositories will be validated against a basic set of tests, depending on what kind of software you are building. This module is for any open source project, at any stage, that wants to improve code quality, code health, and save time from manually testing and validating new code changes.
 
