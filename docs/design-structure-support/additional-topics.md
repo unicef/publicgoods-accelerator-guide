@@ -1,5 +1,5 @@
 ---
-sidebar_position: 4
+sidebar_position: 6
 ---
 
 # Project Management & Documentation
@@ -8,11 +8,11 @@ Now that the startup knows which open source license to obtain, let's help set t
 
 ## Is your project source code already on a git-hosting platform?
 
-Below is taken as an example from UNICEF Innovation Fund: Standards and best practices for starting and managing your open-source repository, and other related open-source documentation.
+Below is taken as an example from the UNICEF Venture Fund: Standards and best practices for starting and managing your open source repository, and other related open source documentation. 
 
-This guide is meant to serve as an introduction to using a GitHub account for hosting and maintaining code, as well as provide a few best practices for open source documentation of code and other technological documents.
+This guide is meant to serve as an introduction to using a GitHub account for hosting and maintaining code, as well as provide a few best practices for open source documentation of code and other technological documents. 
 
-To help you meet the aforementioned requirements, you can find here guidance on (1) setting up, managing and maintaining open repositories, as well as (2) best practices for developing in the open (or, engineering in an open, collaborative environment).
+To help you meet the aforementioned requirements, here you can find guidance on (1) setting up, managing and maintaining open repositories, as well as (2) best practices for developing in the open (or, engineering in an open, collaborative environment).
 
 ## Open-source Repositories
 

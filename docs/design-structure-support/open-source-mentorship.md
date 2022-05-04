@@ -6,19 +6,17 @@ sidebar_position: 2
 
 Let's help set the startup for open source success!
 
-From UNICEF’s [Venture Fund][venture-fund-url] experience, going from zero or little open source experience to developing an open source business model ready for the market, could take about 8 to 12 months. It is recommended to find an open source mentor for your accelerator within the local community or working on similar projects to not only mentor but to connect the project with contributors in the community as well.
+From UNICEF’s [Venture Fund][venture-fund-url] experience, going from zero or little open source experience to developing an open source business model ready for the market could take about 8 to 12 months. It is recommended to find an open source mentor for your accelerator within the local community or working on similar projects to not only mentor but to connect the project with contributors in the community as well.
 
 
-## Characteristics of good mentorship program
+## Characteristics of a good mentorship program
 
-A mentorship program should be tailored towards the types of companies you work with.
-The guidance and expertise should be inclusive of the sectors where they work, so the open source guidance is grounded in relevant communities of practice.
-A good mentorship program may have some or many of the below qualities:
+A mentorship program should be tailored towards the types of companies you work with. The guidance and expertise should be inclusive of the sectors where they work, so the open source guidance is grounded in relevant communities of practice. A good mentorship program may have some or many of the below qualities:
 
 * **Structured, recurring check-ins**: Provide a regular forum to review progress, analyze approaches, and plan for next steps.
 * **Asynchronous expertise and help**: Tools, resources, and pre-written guidance to answer common questions or give examples of best practices.
 * **Blending business leadership and engineering**: Successful open source strategies have ties to several parts of a business, beyond engineering. A good mentorship program incorporates the different parts of the business that need to participate when it is most strategic to do so.
-    * _Example_: CEO or CTO pairs with engineering team to decide a licensing approach compatible with the business model. Support services and/or technical writers work with the engineering team to produce quality documentation. Legal resources are available for license compliance, if needed.
+    * _Example_: CEO or CTO pairs with an engineering team to decide a licensing approach compatible with the business model. Support services and/or technical writers work with the engineering team to produce quality documentation. Legal resources are available for license compliance, if needed.
 
 
 ## Sample terms of reference
