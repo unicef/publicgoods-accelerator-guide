@@ -22,7 +22,7 @@ _How can I bring value to this stakeholder and conversation?_
 * Visibility for the local start-up ecosystem and related programmes, through the global profiling that DPGs receive DPG 
 * When relevant, provide connections to other entrepreneurship government agencies through UNICEF & DPGA network 
 
-***See case study in the section of  "Accelerator Case Studies" - UNICEF Kazakhstan and Astana Hub" in the guide.***
+***See case study in the section of  "Accelerator Case Studies - UNICEF Kazakhstan and Astana Hub" in the guide.***
 
 ### Ministries
 These can be specific ministries that are implementing efforts to digitize the programmes and services they are responsible for. DPGs can accelerate these efforts.  These ministries may include Ministry of Science Technology and Innovation or equivalent, Ministry of Education or equivalent, Ministry of Economy and Finance or equivalent, Ministry of ICT or equivalent.
@@ -53,7 +53,7 @@ _How can I bring value to this stakeholder and conversation?_
 * Present DPGs which are supported by your accelerator - these could potentially solve relevant challenges of the corporate or SMEs. 
 * Corporates, especially technology and software companies, often rely on open source solutions and libraries for their own products – supporting the development of DPGs and building capacity among technologists can support corporates’ own business goals 
 
-_**See case study in the section of  "Accelerator Case Studies" - ING & UNICEF Fintech cohort" in the guide.**_
+_**See case study in the section of  "Accelerator Case Studies - ING & UNICEF Fintech cohort" in the guide.**_
 
 ## Engaging with Local Community
 

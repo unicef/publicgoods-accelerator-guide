@@ -18,7 +18,7 @@ District Health Information Software 2 (DHIS2) is an open source, web-based plat
 
 **DHIS2 for COVID-19:** During the COVID-19 pandemic, **Sri Lanka** created a new [DHIS2 Tracker](https://dhis2.org/sri-lanka-covid-surveillance/) (within 2 days after the first suspected case of the novel coronavirus) to aggregate data for purposes of national-level reporting, while still protecting the privacy and security of individuals who data is stored in the system.  In collaboration with the DHIS2 core developers and Sri Lanka’s DHIS2 team (HISP Sri Lanka), this has ended up being implemented and released for global adoption.
 
-[See the DHIS2 DPG nomination.](https://digitalpublicgoods.net/registry/dhis2.html).
+[See the DHIS2 DPG nomination.](https://digitalpublicgoods.net/registry/dhis2.html)
 
 ### DPG Example #3, Project AEDES - Philippine's first Pathfinding pilot
 

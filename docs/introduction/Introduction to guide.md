@@ -43,25 +43,3 @@ Accelerators can help support startup to locally develop DPGs that are positione
 * *Other organizations* who can share this amongst their ecosystem network and use it as a referral on how to support open source business models & DPGs alike.
 
 Thank you to all the contributors, from UNICEF, DPGA, accelerators and startups who have made this guide possible through sharing their learnings and resources, and dedicating time to help review and edit the guide. 
-
-
-**Primarily this guide will cover:**
-
-### 1. Introduction to Digital Public Goods (DPGs)
-  * Why go open source? (Myths about open source, benefits, challenges)
-  * What are Digital Public Goods and Why should I care as an accelerator? (Accelerator Perks)
-  * What are the benefits for various stakeholders?
-  * How are DPGs sustainable business models? (Privately funded DPG investment cases)
-
-### 2. Needs Assessment: Engaging with Stakeholders
-Understanding which stakeholders are important to engage with and how to approach them and bring value to the conversation.
-
-### 3. How can you Support Startups who Wish to become DPGs?
-
-### 4. What Support is Needed? 
-  * Tools, templates & resources
-  * Business mentorship 
-  * Open source mentorship
-### 5. Case Studies of how Accelerators Support DPGs and Startups that became DPGs
-
-The guide is a work in progress, and will look to have a more user friendly design and experience for accelerators to answer a pre-survey and group relevant resources accordingly.

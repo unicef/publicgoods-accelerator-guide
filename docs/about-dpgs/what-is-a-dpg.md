@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# What is a Digital Public Good (DPGs)?
+# What is a Digital Public Good (DPG)?
 
 _The DPGA is guided by the release of the UN Secretary-General’s [Roadmap for Digital Cooperation](https://www.un.org/en/content/digital-cooperation-roadmap/), defining a digital public good as open source software, open data, open AI models, open standards and open content that adhere to the DPG Standard and are of high relevance for attainment of the [UN’s 2030 Sustainable Development Goals (SDGs)](https://sdgs.un.org/goals)._
 
@@ -40,7 +40,7 @@ On the DPG Registry, you can use the data explorer to filter by:
 
 Anyone can [submit a DPG nomination](https://digitalpublicgoods.net/nominate), but we highly recommend that the project owner submits, as they have access to required resources, documentation, and information about the project.
 
-_For more details on the DPG Nomination process, and what documentation is required, please head to the "DPG Nomination Process" section of the guide._
+_For more details on the DPG Nomination process, and what documentation is required, please head to the "Nominating a DPG" section of the guide._
 
 
 ## Digital Public Goods Advocacy Resources
