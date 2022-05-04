@@ -1,17 +1,17 @@
 ---
-sidebar_position: 2
+sidebar_position: 5
 ---
 
 # Choosing an Open-Source License
 
 ## Permissive vs. Copyleft
-Before deciding on an open source license, you will need to understand which overall open source strategy you will be choosing: Permissive vs. Copyleft.
+Before deciding on an open source license, you will need to understand which overall open source strategy you will be choosing: Permissive or Copyleft.
 
 ### Permissive Licensing Strategy
-* Simple, relaxed, (usually) low-risk I.P.
-* You have strict timelines, short staff, and not a lot of time to build consensus: Permissive governance model match-up.
-* You lead your I.P. and maintain tighter controls on decision-making.
-* You value easier use and adoption of your open source products.
+* Simple, relaxed, (usually) low-risk I.P. 
+* You have strict timelines, short staff, and not a lot of time to build consensus: Permissive governance model match-up. 
+* You lead your I.P. and maintain tighter controls on decision-making. 
+* You value easier use and adoption of your open source products. 
 
 _**Examples of Permissive Licenses:**_ MIT License, Apache License, any BSD-variant license, CC BY.
 
