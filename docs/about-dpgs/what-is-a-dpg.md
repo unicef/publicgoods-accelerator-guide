@@ -40,7 +40,7 @@ On the DPG Registry, you can use the data explorer to filter by:
 
 Anyone can [submit a DPG nomination](https://digitalpublicgoods.net/nominate), but we highly recommend that the project owner submits, as they have access to required resources, documentation, and information about the project.
 
-_For more details on the DPG Nomination process, and what documentation is required, please head to the "DPG Nomination Process" section of the guide._
+_For more details on the DPG Nomination process, and what documentation is required, please head to the "Nominating a DPG" section of the guide._
 
 
 ## Digital Public Goods Advocacy Resources

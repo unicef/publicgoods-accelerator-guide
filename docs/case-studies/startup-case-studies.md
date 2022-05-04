@@ -2,9 +2,9 @@
 sidebar_position: 1
 ---
 
-# Startups Case Studies
+# Startup Case Studies
 
-Have a startup in mind that became a Digital Public Good?  Feel free to suggest an issue or make a pull request to this page.
+Have a startup in mind that developed a Digital Public Good?  Feel free to suggest an issue or make a pull request to this page.
   
 ## Accessible Kazakhstan – Becoming a DPG supported by UNICEF and an Accelerator (Astana Hub) 
 Accessible Kazakhstan is a crowdsourced map of accessible public spaces, buildings and businesses for people with disabilities. So far, 4000 places have been mapped across 20 different regions in Kazakhstan. By the end of 2021, the map will be endorsed as a DPG ready for scale to new countries and languages. The UNICEF DPG team has been supporting Astana Hub to create a pipeline of local DPGs. UNICEF has been working with Astana Hub to strengthen the alignment between the Hub’s graduates and UNICEF Kazakhstan’s programme priorities. 

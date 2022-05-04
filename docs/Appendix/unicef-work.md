@@ -57,13 +57,3 @@ The Digital Public Goods Alliance is a multi-stakeholder initiative with a missi
 ### **Governing Body**
 The DPGA is governed by a board which functions as a strategic decision-making and oversight body for the DPGA Secretariat. The board consists of member-organizations who demonstrate a strong commitment to DPGs and are committed to supporting the DPGA’s mission and mandate. The current member organizations of the board are: German Federal Ministry for Economic Cooperation and Development (BMZ), iSPIRT, Norwegian Agency for Development Cooperation (Norad), Sierra Leone Directorate of Science, Technology and Innovation (DSTI), UNDP, and UNICEF. Day to day functions are steered by the DPGA Secretariat, which is co-hosted by Norad, UNDP, and UNICEF.
 
-## **UNICEF's Digital Centre of Excellence**
-UNICEF's global Digital Centre of Excellence accelerates the delivery of programme outcomes through scaling digital solutions with a dedicated centre of expertise.  The Digital Centre of Excellence serves as a bridge between Regional and Country Offices and Headquarters, providing leadership to support field digital transformation and digital technologies, including Digital Public Goods. Its proximity to programmes enables working closely with partners in demand management and delivery of innovative technology-enabled solutions for better outcomes for children
-
-### **Digital Centre of Excellence - Strategic Pillars for Action**
-The Digital Centre of Excellence partners with regional, country, and field offices, government, private sector, civil society, UN organizations, Office of Innovation, Supply Division, Programme Group, as well as other ICTD sections on solution design and ongoing support.
-   * Global Technology for Development (T4D) solutions that are public goods, managed by government or partners, where UNICEF provides significant support.
-   * Global Technology for Development (T4D) solutions managed and supported by UNICEF, not yet transitioned to sustainable deployment, or support and funding models.
-   * Digital innovation and frontier technologies that are identified for global implementation and scale-up.
-   * Partnerships with the private sector, donors and supporters in philanthropy and digital programming.
-

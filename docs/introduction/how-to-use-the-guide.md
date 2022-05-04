@@ -12,26 +12,26 @@ To help you navigate the guide, we suggest using the table of contents to help y
       * Accelerator Perks of Supporting DPGs
       * DPG Ecosystem Engagement 
       * What are the Steps to Support and Accelerate DPGs? 
-*  * *About Sustainable Open Source Business Models*
+   * *About Sustainable Open Source Business Models*
       * Understanding Open Source Business and Financial Models
       * Startup Benefits & Challenges
       * Privately Funded Open Source Business Models 
       * Successfully Scaled Digital Public Goods
 * ***b) Designing structure and content to support DPGs:*** In these sections, you will find curriculum content, resources and structure to integrate within accelerator activities and capacity building of start-ups and start-ups themselves.
-      * How do I design and deliver technical assistance to DPGs? 
-      * Open Source Mentorship Structure for Your Accelerator 
-      * Mentorship & Resources for Startups 
-      * Open Source Governance 
-      * Choosing an Open Source license 
-      * Project Management & Documentation 
-      * Milestones & Challenges 
-      * Business Mentorship 
+   *  How do I design and deliver technical assistance to DPGs? 
+   *  Open Source Mentorship Structure for Your Accelerator 
+   * Mentorship & Resources for Startups 
+   * Open Source Governance 
+   * Choosing an Open Source license 
+   * Project Management & Documentation 
+   * Milestones & Challenges 
+   * Business Mentorship 
 * ***c) Case Studies***
-      * Startup Case Studies 
-      * Accelerator Case Studies 
+   * Startup Case Studies 
+   * Accelerator Case Studies 
 * ***d) Nominating a DPG***
-      * DPG Nomination Process 
-      * You have become a Digital Public Good! Now, what?
+   * DPG Nomination Process 
+   * You have become a Digital Public Good! Now, what?
 
 This guide is a living document meant to be updated through public input as more organizations accelerate DPGs. You can participate in its continued development by suggesting changes at https://github.com/unicef/publicgoods-accelerator-guide.  If you are new to Github, you can view this [short description](https://docs.google.com/document/d/1axBDyG1MK24s9FyxeMcguqFgg1-nCGa1FXWwBMDqfKE/edit?usp=sharing) (1-2 mins read) on how to contribute to the guide, including giving direct feedback and making proposed edits to the text.
 

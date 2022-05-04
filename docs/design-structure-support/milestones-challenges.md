@@ -82,7 +82,7 @@ This quarter leaves time to address any pending items from previous quarters, an
 
 1. **Within a cohort, expect only 20-30% are aware of going open source and 0% are aware of Digital Public Goods** – after advocacy of the advantages of using open source within a cohort, 30% of companies may be potentially interested to explore the path of becoming a Digital Public Good as well.
    * Host an Open Source 101 webinar: [Understanding of open source 101 – Justin’s webinar](https://youtu.be/r9uZ5_pQodc)
-   * [Slides: Open Source 101, why is it important?](https://docs.google.com/presentation/d/11TsgvcEFkr1V_mkekauvOdpMImYnZWMJsqN0X5-IC5I/edit))
+   * [Slides: Open Source 101, why is it important?](https://docs.google.com/presentation/d/11TsgvcEFkr1V_mkekauvOdpMImYnZWMJsqN0X5-IC5I/edit)
 
 2.  **It takes patience!**  Sometimes it may take emails back and forth of many long threads – in this case, please do reach out to a UNICEF Venture Fund Team member who may be able to assist more efficiently.
     * [Overview of the Open Source mentorship program - video](https://youtu.be/smfbTSzeoS0)
