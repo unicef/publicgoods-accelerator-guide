@@ -29,7 +29,7 @@ _**Before nominating a Digital Public Good, take the eligibility questionnaire: 
 
 _**After a full nomination is submitted, what happens?**_ 
 
-1. It makes a pull request on the [github.com/unicef/publicgoods-candidates/pull/](github.com/unicef/publicgoods-candidates/pull/), publicly.  It will be triaged to the DPG pending review – start it by Adding nominee. 
+1. It makes a pull request on the [https://github.com/DPGAlliance/publicgoods-candidates/pulls](https://github.com/DPGAlliance/publicgoods-candidates/pulls), publicly.  It will be triaged to the DPG pending review – start it by Adding nominee. 
 
 2. Any feedback or comments are directly inputted into the github process, and an email is sent from the DPGA team to the DPG nominee. - There are 3 reviewers before the DPG is a successful nominated. 
 
@@ -116,7 +116,7 @@ Refer to the [Help Center Documentation](https://github.com/unicef/publicgoods-c
    * _**Tip:**_ For privacy templates, consider reaching out to a lawyer who understands compliance with the privacy laws in the applicable countries.
 
 ### 8. Open Standard
-* There is a list of open standards. Please provide a link to validate this. [github.com/unicef/publicgoods-candidates/blob/main/docs/help-center/best-practices.md](github.com/unicef/publicgoods-candidates/blob/main/docs/help-center/best-practices.md)
+* There is a list of open standards. Please provide a link to validate this. [https://github.com/DPGAlliance/publicgoods-candidates/blob/main/docs/help-center/best-practices.md](https://github.com/DPGAlliance/publicgoods-candidates/blob/main/docs/help-center/best-practices.md)
    * _**Tip:**_ If they used a certain standard, there is documentation on a specific API to show they comply to the open standard.
 
 ### 9. Does the Project do no harm?
