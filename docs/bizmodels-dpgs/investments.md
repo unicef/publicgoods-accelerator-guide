@@ -8,15 +8,15 @@ Still unsure of open source? Take a look at these investment cases of open sourc
 
 **Other DPG Investment Resources found in [this folder](https://drive.google.com/drive/folders/1V7Xo8ZMAQdkdCNIsb4tp-S3ZcB_Kvr8M?usp=sharing):**
 
-[1. Examples of Open Source Business Models (OBSM) & Investment Cases of funded OSBMs](https://drive.google.com/file/d/1ZSuEa4PLe5SdzFWTtfqeinPRtJ9suY_3/view?usp=sharing) 
+[1. Examples of Open Source Business Models (OSBM) & Investment Cases of Privately Funded OSBMs](https://drive.google.com/file/d/1nroVWro29YNxshUTfw9CiBDkE_eEUc3B/view?usp=sharing) 
 
-[2. DPG Engagement Strategy With Investors](https://drive.google.com/file/d/1hsmTuXwhmVMbVsSKTBCTWEWjrv9VgkzD/view?usp=sharing) 
+[2. DPG Engagement Strategy With Investors](https://drive.google.com/file/d/1W3ahs6fZr3HWLG9ezHVS5eMuSGyWv0l7/view?usp=sharing) 
 
-[3. DPG Investment Case & Other Fundraising Tools](https://drive.google.com/file/d/1edT4ynLH2KRWGdtzyCjIE5VQUurYgUFY/view?usp=sharing) 
+[3. Template - DPG Investment Case](https://docs.google.com/presentation/d/1dai6Gn90GKZFrrdcQ5vbXhxD6Dmj69QH/edit?usp=sharing&ouid=109395478007960519704&rtpof=true&sd=true) 
 
-[4. Investor Checklist Used to Evaluate Companies](https://drive.google.com/file/d/1qmY70vws9phoqh2_VpwTr0jjLKrN5jGF/view?usp=sharing)
+[4. Investor Checklist Used to Evaluate Companies](https://drive.google.com/file/d/1H0yEmXp_RBHmE2r49-rTRk94wn_USEoM/view?usp=sharing)
 
-[5. What does the Private Capital Funding Framework look like?](https://drive.google.com/file/d/1wshmQe8EF73Jky2A-FAblEpMM9mUhrkt/view?usp=sharing) 
+[5. What does the Private Capital Funding Framework look like?](https://drive.google.com/file/d/1md4UkS1DeXjK24TYEfHRDaED60EvZ_r2/view?usp=sharing) 
 
 ## Business Model: [StaTwig](https://statwig.com/)
 StaTwig prevents supply chain failures by tracking details to a blockchain that connects all the stakeholders in the value chain.
@@ -25,13 +25,13 @@ About StaTwig | Description
 --------------|---------------
 About | A blockchain powered supply chain management platform that can track products at unit level in multi-stakeholder environment 
 Presence | Hyderabad, India (HQ), Australia, USA
-Industry | Food and Agriculture, Pharma
+Industry | Pharma, Ports & Airports, and NFTs
 Employees | ~20
-Business model | - Software as a Service & Revenue from service fees
-Focus | Product quality and safety
+Business model | - Software as a Service
+Focus | Product quality and safety (provenance & authenticity)
 SDG alignment | SDG Goal #3 Good Health and Well Being
-Private funding history | 2017: Accelerator, €20.000 (Airmaker), 2018: Accelerator,€20.000 (Startupbootcamp and Hartford InsurTech Hub), 2019: Accelerator, €90.000 (T-Hub(1)), 2021: A group of angel investors, micro-venture capital firms and family offices, $500.000 equity investment 
-Public funding | 2018: Accelerator, €90.000 (UNICEF), 2019: Grant, €90.000 (CIIE(2)), 2019: Incubator, €90.000 (CIIE(2)) 
+Private funding history | 2017: Accelerator, €20.000 (Airmaker), 2018: Accelerator,€20.000 (Startupbootcamp and Hartford InsurTech Hub), 2021: Trinity Challenge winner, USD $660k, 2021: A group of angel investors, micro-venture capital firms and family offices, $500.000 equity investment 
+Public funding | 2018: Accelerator, €90.000 (UNICEF), 2019: Incubator, €90.000 (CIIE(2)) 
 
 ### Mission
 To make global supply chains resilient and sustainable by connecting data silos, and thereby reducing wastage
@@ -39,7 +39,7 @@ To make global supply chains resilient and sustainable by connecting data silos,
 ### Description
 StaTwig develops a platform that connects all stakeholders in the value chain. It provides real-time tracking and visibility of the life journey of a product, including geographical location, changes in temperature, along with all transactions, contracts and payments associated with the product as it moves through the supply chain, enabling clients to trace products from manufacturer to customer by using loT devices that tag along with the product. 
 
-Products: VaccineLedger (vaccine supply chain), FoodLedger, Brewcollect (AB Inbev), Cargoledger (air cargo terminals), Sensostat (Internet of Things data capture) 
+Products: VaccineLedger (vaccine supply chain), FoodLedger, Cargoledger (air cargo terminals), Sensostat (Internet of Things data capture) 
 
 * **_Key challenge solving for:_** The information systems used by various stakeholders do not talk to each other leading to supply chain failures such as counterfeiting, diversion, black marketing, cold-chain failures and stock outs
 * **_Advantage of open-source technology:_** StaTwig focuses on the (international) development sector in which clients (UN, governments) value companies that are open source. Additionally, in the future a community of developers can be engaged to accelerate the development and adoption of the software.
@@ -95,20 +95,20 @@ Products: VaccineLedger (vaccine supply chain), FoodLedger, Brewcollect (AB Inbe
     * “Large governments and/ or international donor organizations have a large mandate for open source”
 
 ## Investment Case: StaTwig
-StaTwig has attained a $750k total contract value in 2021 and expects it to grow to $1,2 mln by the end of 2021, and has recently raised $500k of equity investment. Currently, StaTwig is raising capital from strategic channel partners. Next funding phase will be larger round of series A venture capital.
+StaTwig has attained a $930k total contract value in 2021 and expects it to grow to $1,2 mln by the end of 2021, and has recently raised $535k of equity investment. Currently, StaTwig is raising capital from strategic channel partners. Next funding phase will be larger round of series A venture capital.
 
 ## Company snapshot - StaTwig
 
 ### Market Size
-* The **TAM **for life sciences supply chain and food and beverage track and trace tools in StaTwig’s countries of operation(2) amounts to  bln
-* The **SAM** for StaTwig’s VaccineLedger, FoodLedger, Brew-collect and Cargoledger is 50 mln
-* The **SOM** is 75 mln
+* The **TAM** for life sciences supply chain and food and beverage track and trace tools in StaTwig’s countries of operation(2) amounts to 10 bln
+* The **SAM** for StaTwig’s VaccineLedger, FoodLedger, Brew-collect and Cargoledger is 350 mln
+* The **SOM** is 175 mln
 
 ### Traction
-* With VaccineLedger, StaTwig is active in India, Kazakhstan, Ethiopia, Kenya, Mozambique, Morocco and Bosnia and Herzegovina 
-* Clients include vaccine and pharma-ceutical clients (UNICEF, AstraZeneca, Gavi, IDB, Government of Telangana and Government of Maharashtra), a food & beverage company (AB InBev) and a Cargo terminal (GAAR) 
-* StaTwig works with technological and logistical channel partners such as Apollo LogiSolutions, IDB, Tech Mahindra, Maersk and GAAR 
-* The Total Contract Value (TCV) in 2021 amounts to 50k so far, with potential to scale TCV to USD ,2 mln by the end of the year 
+* With VaccineLedger, StaTwig has an active interest in India, Kazakhstan, Ethiopia, Kenya, Mozambique, Morocco and Bosnia and Herzegovina 
+* Clients include vaccine and pharma-ceutical clients (UNICEF, Gavi, IDB, GSK, Government of Telangana and Government of Maharashtra), a food & beverage company (AB InBev) and a Cargo terminal (GMR) 
+* StaTwig works with technological and logistical channel partners such as Apollo LogiSolutions, IDB, Tech Mahindra, GMR
+* The Total Contract Value (TCV) in 2021 amounts to $930k so far, StaTwig is raising $4.2M out of which $2M commitment has been received 
 
 ### Milestones
 * **2021:** A group of angel investors, micro-venture capital firms and family offices took a 00k stake in the company.
@@ -119,7 +119,7 @@ StaTwig has attained a $750k total contract value in 2021 and expects it to grow
 
 ## Investment Opportunity - StaTwig
 ### Competitive advantage
-* _**Disruptive technology:**_ StaTwig developed the first blockchain powered supply chain management platform that can track products at unit level with the Internet of Things device
+* _**Disruptive technology:**_ StaTwig developed the first successfully implemented blockchain powered supply chain management platform that can track products at unit level with the Internet of Things device
 * _**Time to market:**_ StaTwig is the first to provide supply chain visibility and transparency at each stage of a product using blockchain technology
 * _**Network effects:**_ the more stakeholders in the supply chain use the StaTwig app to monitor goods as they move through the supply chain, the better goods can be tracked and the more value the platform creates 
 * _**Stickiness:**_ StaTwig has a commercial relationship advantage because of the signed Long-term Agreement (LTA) with UNICEF
